@@ -1,4 +1,4 @@
-# This folder is for pull requests  
+# Pull Request folder is for pull requests  
 <br>  
 
 ## Steps  
