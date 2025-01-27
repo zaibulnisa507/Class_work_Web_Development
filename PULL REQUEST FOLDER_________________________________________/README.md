@@ -11,7 +11,7 @@
 7. Once approved:  
    1. Click on the **Code** button (green color button).  
    2. Copy the repo link provided there.  
-   3. Go to your dashboard and create a new folder there.  
+   3. Go to your desktop and create a new folder there.  
    4. Open **VS Code** terminal and write:  
       ```bash
       git clone [paste the link you copied earlier]
