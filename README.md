@@ -13,6 +13,25 @@
 
 ---
 
+## 📎 Class Links  
+- **Discord Link:** 
+### [For All The Announcements ](https://discord.gg/qdyRtf7jBU) 
+### [For Discussing Any error ](https://discord.gg/tVfmZk5GAN)  
+### [Class Link ](https://discord.gg/mbucEU3UV3)  
+
+- **YouTube Playlist:** [Watch Here](https://www.youtube.com/playlist?list=PLyjQWlylgnG15DhUrAo5lNh-8k-G0ywWO)  
+
+---
+
+## 📲 Stay Updated  
+Follow the **Full Stack Web Development** channel on WhatsApp:  
+[Join Here](https://whatsapp.com/channel/0029Vb3Fo9a0gcfSwnqwFT25)  
+```
+
+
+
+
+
 ## ✅ Roadmap to Mastery  
 
 ### ✅ Frontend Development (6 Months)  
@@ -52,20 +71,6 @@
 
 ---
 
-## 📎 Class Links  
-- **Discord Link:** 
-### [For All The Announcements ](https://discord.gg/qdyRtf7jBU) 
-### [For Discussing Any error ](https://discord.gg/tVfmZk5GAN)  
-### [Class Link ](https://discord.gg/mbucEU3UV3)  
-
-- **YouTube Playlist:** [Watch Here](https://www.youtube.com/playlist?list=PLyjQWlylgnG15DhUrAo5lNh-8k-G0ywWO)  
-
----
-
-## 📲 Stay Updated  
-Follow the **Full Stack Web Development** channel on WhatsApp:  
-[Join Here](https://whatsapp.com/channel/0029Vb3Fo9a0gcfSwnqwFT25)  
-```
 
 
 
