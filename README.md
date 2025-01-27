@@ -53,7 +53,11 @@
 ---
 
 ## 📎 Class Links  
-- **Discord Link:** [Join Here](https://discord.gg/8mkghEvaJT)  
+- **Discord Link:** 
+### [For All The Announcements ](https://discord.gg/qdyRtf7jBU) 
+### [For Discussing Any error ](https://discord.gg/tVfmZk5GAN)  
+### [Class Link ](https://discord.gg/mbucEU3UV3)  
+
 - **YouTube Playlist:** [Watch Here](https://www.youtube.com/playlist?list=PLyjQWlylgnG15DhUrAo5lNh-8k-G0ywWO)  
 
 ---
